@@ -37,12 +37,12 @@
 
 ```
 [Поле для вставки кода...]
-<https://github.com/olegstrigunov/gitlab-hw/commit/dd6af079d944f126dd227440f3cc63bc65e21edd>
 ....
 ....
 ....
 ....
 ```
+<https://github.com/olegstrigunov/gitlab-hw/commit/dd6af079d944f126dd227440f3cc63bc65e21edd>
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
@@ -62,12 +62,12 @@
 6. 
 
 ```
-<https://github.com/olegstrigunov/gitlab-hw/commit/247b97e882f0039663b21270fa6715339f15ecb0>
 ....
 ....
 ....
 ....
 ```
+<https://github.com/olegstrigunov/gitlab-hw/commit/247b97e882f0039663b21270fa6715339f15ecb0>
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 2](ссылка на скриншот 2)`
@@ -87,11 +87,11 @@
 6. 
 
 ```
-<https://github.com/olegstrigunov/gitlab-hw/network>
 ....
 ....
 ```
-
+![skrinshot](https://github.com/olegstrigunov/gitlab-hw/blob/main/изображение_2023-10-20_193704925.png)
+<https://github.com/olegstrigunov/gitlab-hw/network>
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](ссылка на скриншот)`
 
