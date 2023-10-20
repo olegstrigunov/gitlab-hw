@@ -42,7 +42,7 @@
 ....
 ....
 ```
-<https://github.com/olegstrigunov/gitlab-hw/commit/dd6af079d944f126dd227440f3cc63bc65e21edd>
+<https://github.com/olegstrigunov/gitlab-hw/commit/d30adeac5d190970186608d04b21f6444a7c0f51>
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота 1](ссылка на скриншот 1)`
