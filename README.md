@@ -37,7 +37,7 @@
 
 ```
 [Поле для вставки кода...]
-https://github.com/olegstrigunov/gitlab-hw/commit/dd6af079d944f126dd227440f3cc63bc65e21edd)
+<https://github.com/olegstrigunov/gitlab-hw/commit/dd6af079d944f126dd227440f3cc63bc65e21edd>
 ....
 ....
 ....
@@ -62,7 +62,7 @@ https://github.com/olegstrigunov/gitlab-hw/commit/dd6af079d944f126dd227440f3cc63
 6. 
 
 ```
-https://github.com/olegstrigunov/gitlab-hw/commit/247b97e882f0039663b21270fa6715339f15ecb0
+<https://github.com/olegstrigunov/gitlab-hw/commit/247b97e882f0039663b21270fa6715339f15ecb0>
 ....
 ....
 ....
@@ -87,7 +87,7 @@ https://github.com/olegstrigunov/gitlab-hw/commit/247b97e882f0039663b21270fa6715
 6. 
 
 ```
-....https://github.com/olegstrigunov/gitlab-hw/network
+<https://github.com/olegstrigunov/gitlab-hw/network>
 ....
 ....
 ```
